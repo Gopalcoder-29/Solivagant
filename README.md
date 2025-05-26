@@ -14,7 +14,7 @@ Fill a brief description of this experiment here
 :--|:--|
 <b> Institute | <b>  Rajkiya engineering college kannauj
 <b> Email id|     <b>  rajeev@reck.ac.in
-<b> Department |  Department of Electronicvs Engineering
+<b> Department |  Department of Electronics Engineering
 
 ### Contributors List
 
